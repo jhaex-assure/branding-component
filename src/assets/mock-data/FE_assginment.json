@@ -1,0 +1,1291 @@
+{
+  "id": "445585217198100480",
+  "token": "666690f5074b33aac778d7e8afac91db4b8e1ee2d0f96be804f9acdb627d9f2e",
+  "number": "1",
+  "status": "draft",
+  "client_contact_id": "",
+  "show_feedback_rounds": 1,
+  "show_client_goals": 1,
+  "show_general_terms": 1,
+  "show_invoice_schedule": 1,
+  "show_expire_at": 1,
+  "show_backstop_at": 1,
+  "show_deliverable_descriptions": 1,
+  "show_deliverable_prices": 1,
+  "show_deliverable_units": 1,
+  "show_phase_descriptions": 1,
+  "show_phase_prices": 1,
+  "show_scope": 1,
+  "share_hits": 0,
+  "shared_at": null,
+  "owner_id": "10410",
+  "created_at": "2024-07-12 13:56:34",
+  "updated_at": "2024-07-12 13:56:34",
+  "sent_at": null,
+  "accepted_at": null,
+  "email_cc": null,
+  "project_id": "445585215281303552",
+  "scope_id": "12057",
+  "contractterms": [],
+  "project": {
+    "id": "445585215281303552",
+    "view": "associate",
+    "created_at": "2024-07-12 13:56:33",
+    "name": "Monthly Retainer",
+    "slug": null,
+    "description": null,
+    "emoji": "computer",
+    "status": "lead",
+    "backstop_at": null,
+    "expire_at": null,
+    "won_at": null,
+    "completed_at": null,
+    "feedback_rounds": null,
+    "client_goals": "The goal of this project is to maintain the website for client X for 12 months and keep it up to date for latest changes to product, create brand awareness and SEO optimization",
+    "general_terms": null,
+    "show_feedback_rounds": 1,
+    "show_client_goals": 1,
+    "show_general_terms": 1,
+    "show_invoice_schedule": 1,
+    "show_expire_at": 1,
+    "show_backstop_at": 1,
+    "show_deliverable_descriptions": 1,
+    "show_deliverable_prices": 1,
+    "show_deliverable_units": 1,
+    "show_phase_descriptions": 1,
+    "show_phase_prices": 1,
+    "show_scope": 1,
+    "invoice_upfront_mode": null,
+    "invoice_upfront_percentage_amount": null,
+    "invoice_upfront_value_amount": null,
+    "invoice_payment_terms": null,
+    "invoice_remaining_mode": null,
+    "invoice_remaining_monthly_count": null,
+    "invoice_remaining_monthly_start_at": null,
+    "invoice_remaining_payments": null,
+    "roles": [
+      {
+        "id": "57",
+        "name": "UX/UI Designer",
+        "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+        "emoji": "thought_balloon"
+      },
+      {
+        "id": "61",
+        "name": "CMS Developer",
+        "description": "The specialist responsible for developing and configuring content management systems.",
+        "emoji": "floppy_disk"
+      },
+      {
+        "id": "34",
+        "name": "Content Strategist",
+        "description": "The team member who is on point for understanding business goals and user needs, then helps plan, develop and deliver clear, relevant content that brings the two together.",
+        "emoji": "newspaper"
+      }
+    ],
+    "is_solo": true,
+    "margin_percentage": null,
+    "margin_amount": null,
+    "margin_amount_calculated": 0,
+    "owner_pay": null,
+    "scope_id": "12057",
+    "price_total": 955000,
+    "sort-price_total": 955000,
+    "scope_ancestor_id": 3474,
+    "scope_ancestor_wethos_template": 1,
+    "contacts": [],
+    "client": {
+      "id": "444600259390345216",
+      "name": "Test client",
+      "description": null,
+      "size": null,
+      "type": null,
+      "billing_address": null
+    },
+    "owner": {
+      "id": "10410",
+      "first_name": "Amrit",
+      "last_name": "Stg2",
+      "email": "amrit+stg2@wethos.co",
+      "phone_number": null,
+      "phone_number_country_code": null,
+      "is_company": false,
+      "partner_id": null,
+      "created_at": "2024-07-09 20:40:44",
+      "is_subscribed": true,
+      "auth_social": false,
+      "mfa_enabled": false,
+      "email_verified": true,
+      "unverified_email": "amrit+stg2@wethos.co",
+      "username": "amrit+stg2@wethos.co",
+      "phone_number_unverified": null,
+      "phone_number_country_code_unverified": null,
+      "phone_number_verified_at": null,
+      "payable": false,
+      "launchdarkly_user_hash": "35b4d8ca7d0fc8b004ae404955f6a53ab51157e6a5e03a7e5fae11cfaaa0dc94",
+      "launchdarkly_secure_mode_hash": "998e0213758523acb09cb79ae0da52987f6183596a2c2d61825ac657ec42b4cd",
+      "specialist": {
+        "id": "444599767310405632",
+        "user_id": "10410",
+        "title": "",
+        "slug": null,
+        "first_name": "Amrit",
+        "last_name": "Stg2",
+        "name": "Amrit Stg2",
+        "signing_party": null,
+        "description": "",
+        "short_bio": null,
+        "get_from_wethos": null,
+        "hear_about": null,
+        "hear_about_followup": null,
+        "business_services": [
+          "Marketing"
+        ],
+        "business_services_other": null,
+        "describes_you": "I run a large agency with FT/PT employees",
+        "describes_you_other": null,
+        "biggest_challenge": "Heard from a friend",
+        "visual_type": "none",
+        "visual_emoji": null,
+        "visual_color": null,
+        "freelancer_type": null,
+        "name_pronounciation": null,
+        "pronouns": null,
+        "elusive_client": null,
+        "brand_name": null,
+        "primary_brand_color": "#8C92AC",
+        "text_brand_color": "#FFFFFF",
+        "invoice_pdf_style": null,
+        "invoice_image_size": null,
+        "invoice_headers_size": null,
+        "invoice_body_size": null,
+        "invoice_font_family": null,
+        "invoice_sender_address": null,
+        "is_subscribed": true,
+        "is_company": false,
+        "visibility": "none",
+        "availability": "I'm available for roles no matter the compensation and I have no preference.",
+        "availability_overall": "available",
+        "availability_compensation": "no matter the compensation",
+        "availability_compensation_amount": null,
+        "availability_preference": "have no preference",
+        "availability_relation": null,
+        "location_display": "",
+        "location_name": null,
+        "location_city": null,
+        "location_state": null,
+        "location_postcode": null,
+        "location_country": null,
+        "location_country_code": null,
+        "location_lat": null,
+        "location_lon": null,
+        "location_place_id": null,
+        "pitching_frequency": null,
+        "what_you_looking_to_do": "I'm here to join the network",
+        "wethos_verified": false,
+        "wpa_active": false,
+        "token": "39bab2f28f59b0798266307f205b914914def9888b0d0d9870c65cf68129566d",
+        "conflux_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImFtcml0K3N0ZzJAd2V0aG9zLmNvIiwiZXhwIjoxNzIwNzk2MTk3fQ.g-AkjikQfjco_0OCzpvAQXDHkE1KTcg5dxb-kEgBT70",
+        "accepts_marketing": 1,
+        "accepts_research": 0,
+        "payable": null,
+        "assets": []
+      }
+    },
+    "summary": {
+      "summarized_at": "2024-07-12 13:56:37",
+      "price_total": 955000,
+      "users": [],
+      "total_billable": 955000,
+      "services_billable": 955000,
+      "profit_actual": 0,
+      "profit_projected": 955000,
+      "income_remaining": 955000,
+      "income_actual": 0,
+      "income_projected": 955000,
+      "expenses_actual": 0,
+      "expenses_projected": 0,
+      "expenses_recoverable": 0,
+      "user_pay_actual": 0,
+      "user_pay_projected": 0
+    }
+  },
+  "scope": {
+    "id": "12057",
+    "view": "associate",
+    "name": null,
+    "template_name": null,
+    "description": null,
+    "community": 0,
+    "status": "draft",
+    "created_at": "2024-07-12 13:56:34",
+    "updated_at": "2024-07-12 13:56:35",
+    "sort-created_at": "2024-07-12 13:56:34",
+    "sort-updated_at": "2024-07-12 13:56:35",
+    "project_id": "445585215281303552",
+    "project_name": "Monthly Retainer",
+    "project_emoji": "computer",
+    "sort-project_name": "Monthly Retainer",
+    "client_id": "444600259390345216",
+    "client_name": "Test client",
+    "sort-client_name": "Test client",
+    "summary": {
+      "roles": [
+        {
+          "id": "34",
+          "price": 180000,
+          "price_rounded": 180000,
+          "price_completed": 0,
+          "price_total_rounded": 180000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "57",
+          "price": 475000,
+          "price_rounded": 475000,
+          "price_completed": 0,
+          "price_total_rounded": 475000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "61",
+          "price": 300000,
+          "price_rounded": 300000,
+          "price_completed": 0,
+          "price_total_rounded": 300000,
+          "price_rounded_completed": 0
+        }
+      ],
+      "tasks": [
+        {
+          "id": "445585219395915776",
+          "price": 90000,
+          "price_rounded": 90000,
+          "price_completed": 0,
+          "price_total_rounded": 90000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585219521744896",
+          "price": 100000,
+          "price_rounded": 100000,
+          "price_completed": 0,
+          "price_total_rounded": 100000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585219593048064",
+          "price": 150000,
+          "price_rounded": 150000,
+          "price_completed": 0,
+          "price_total_rounded": 150000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585219718877184",
+          "price": 45000,
+          "price_rounded": 45000,
+          "price_completed": 0,
+          "price_total_rounded": 45000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585219836317696",
+          "price": 60000,
+          "price_rounded": 60000,
+          "price_completed": 0,
+          "price_total_rounded": 60000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585219987312640",
+          "price": 150000,
+          "price_rounded": 150000,
+          "price_completed": 0,
+          "price_total_rounded": 150000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585220180250624",
+          "price": 90000,
+          "price_rounded": 90000,
+          "price_completed": 0,
+          "price_total_rounded": 90000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585220314468352",
+          "price": 60000,
+          "price_rounded": 60000,
+          "price_completed": 0,
+          "price_total_rounded": 60000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585220410937344",
+          "price": 60000,
+          "price_rounded": 60000,
+          "price_completed": 0,
+          "price_total_rounded": 60000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585220486434816",
+          "price": 90000,
+          "price_rounded": 90000,
+          "price_completed": 0,
+          "price_total_rounded": 90000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "445585220599681024",
+          "price": 60000,
+          "price_rounded": 60000,
+          "price_completed": 0,
+          "price_total_rounded": 60000,
+          "price_rounded_completed": 0
+        }
+      ],
+      "categories": [
+        {
+          "id": "33470",
+          "price": 90000,
+          "price_rounded": 90000,
+          "price_completed": 0,
+          "price_total_rounded": 90000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "33471",
+          "price": 355000,
+          "price_rounded": 355000,
+          "price_completed": 0,
+          "price_total_rounded": 355000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "33472",
+          "price": 450000,
+          "price_rounded": 450000,
+          "price_completed": 0,
+          "price_total_rounded": 450000,
+          "price_rounded_completed": 0
+        },
+        {
+          "id": "33473",
+          "price": 60000,
+          "price_rounded": 60000,
+          "price_completed": 0,
+          "price_total_rounded": 60000,
+          "price_rounded_completed": 0
+        }
+      ],
+      "assignments": [
+        {
+          "id": null,
+          "price": 955000,
+          "price_rounded": 955000,
+          "price_completed": 0,
+          "price_total_rounded": 955000,
+          "price_rounded_completed": 0
+        }
+      ],
+      "price_total": 955000,
+      "categoryroles": [
+        {
+          "id": "33470",
+          "roles": [
+            {
+              "id": "34",
+              "price": 90000,
+              "price_completed": 0
+            }
+          ]
+        },
+        {
+          "id": "33471",
+          "roles": [
+            {
+              "id": "57",
+              "price": 355000,
+              "price_completed": 0
+            }
+          ]
+        },
+        {
+          "id": "33472",
+          "roles": [
+            {
+              "id": "61",
+              "price": 300000,
+              "price_completed": 0
+            },
+            {
+              "id": "34",
+              "price": 90000,
+              "price_completed": 0
+            },
+            {
+              "id": "57",
+              "price": 60000,
+              "price_completed": 0
+            }
+          ]
+        },
+        {
+          "id": "33473",
+          "roles": [
+            {
+              "id": "57",
+              "price": 60000,
+              "price_completed": 0
+            }
+          ]
+        }
+      ],
+      "rolecategories": [
+        {
+          "id": "34",
+          "categories": [
+            {
+              "id": "33470",
+              "price": 90000,
+              "price_completed": 0
+            },
+            {
+              "id": "33472",
+              "price": 90000,
+              "price_completed": 0
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "categories": [
+            {
+              "id": "33471",
+              "price": 355000,
+              "price_completed": 0
+            },
+            {
+              "id": "33472",
+              "price": 60000,
+              "price_completed": 0
+            },
+            {
+              "id": "33473",
+              "price": 60000,
+              "price_completed": 0
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "categories": [
+            {
+              "id": "33472",
+              "price": 300000,
+              "price_completed": 0
+            }
+          ]
+        }
+      ],
+      "price_completed": 0,
+      "roleassignments": [
+        {
+          "price": 180000,
+          "status": "open",
+          "role_id": "34",
+          "user_id": "",
+          "invitation_id": "",
+          "specialist_id": "",
+          "price_completed": 0
+        },
+        {
+          "price": 475000,
+          "status": "open",
+          "role_id": "57",
+          "user_id": "",
+          "invitation_id": "",
+          "specialist_id": "",
+          "price_completed": 0
+        },
+        {
+          "price": 300000,
+          "status": "open",
+          "role_id": "61",
+          "user_id": "",
+          "invitation_id": "",
+          "specialist_id": "",
+          "price_completed": 0
+        }
+      ]
+    },
+    "tasks": [
+      {
+        "id": "445585219521744896",
+        "view": "associate",
+        "name": "Assemble mood board",
+        "description": "Develop mood board that help the client contribute to the aesthetic feel of a project.",
+        "quantity": "1 mood board",
+        "price": 100000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 4,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33471",
+        "category_name": "Design",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1062",
+          "name": "Assemble mood board",
+          "description": "Develop mood board that help the client contribute to the aesthetic feel of a project.",
+          "quantity": "1 mood board",
+          "price": 100000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "50",
+            "name": "Concept Designer",
+            "description": "The specialist responsible for early phase of the design process, in which the broad outlines of function and form of something are articulated.",
+            "emoji": "brain"
+          }
+        },
+        "role": {
+          "id": "57",
+          "name": "UX/UI Designer",
+          "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+          "emoji": "thought_balloon"
+        }
+      },
+      {
+        "id": "445585219593048064",
+        "view": "associate",
+        "name": "Mock up website pages",
+        "description": "Design high fidelity website page mockups based on an established design.",
+        "quantity": "1 page",
+        "price": 150000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 3,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33471",
+        "category_name": "Design",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1152",
+          "name": "Mock up website pages",
+          "description": "Design high fidelity website page mockups based on an established design.",
+          "quantity": "5 pages",
+          "price": 150000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "57",
+            "name": "UX/UI Designer",
+            "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+            "emoji": "thought_balloon"
+          }
+        },
+        "role": {
+          "id": "57",
+          "name": "UX/UI Designer",
+          "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+          "emoji": "thought_balloon"
+        }
+      },
+      {
+        "id": "445585219987312640",
+        "view": "associate",
+        "name": "Customize website themes for a CMS",
+        "description": "Lightly modify existing website themes by implementing custom CSS code (maximum 20 styles).",
+        "quantity": "1 template",
+        "price": 150000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 3,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33472",
+        "category_name": "Implementation",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1166",
+          "name": "Customize website themes for a CMS",
+          "description": "Lightly modify existing website themes by implementing custom CSS code (maximum 20 styles).",
+          "quantity": "3 templates",
+          "price": 150000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "58",
+            "name": "Front-End Developer",
+            "description": "The specialist responsible for the structure and function and design of a webpage.",
+            "emoji": "computer"
+          }
+        },
+        "role": {
+          "id": "61",
+          "name": "CMS Developer",
+          "description": "The specialist responsible for developing and configuring content management systems.",
+          "emoji": "floppy_disk"
+        }
+      },
+      {
+        "id": "445585220180250624",
+        "view": "associate",
+        "name": "Write website content",
+        "description": "Write pages of content (typically less than 1,000 words per page) for websites based on sitemaps and style guides.",
+        "quantity": "1 page",
+        "price": 90000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 3,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33472",
+        "category_name": "Implementation",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1198",
+          "name": "Write website content",
+          "description": "Write pages of content (typically less than 1,000 words per page) for websites based on sitemaps and style guides.",
+          "quantity": "5 pages",
+          "price": 90000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "35",
+            "name": "Technical Writer",
+            "description": "The specialist responsible for product, website, whitepapers, and technical writing.",
+            "emoji": "lower_left_ballpoint_pen"
+          }
+        },
+        "role": {
+          "id": "34",
+          "name": "Content Strategist",
+          "description": "The team member who is on point for understanding business goals and user needs, then helps plan, develop and deliver clear, relevant content that brings the two together.",
+          "emoji": "newspaper"
+        }
+      },
+      {
+        "id": "445585219718877184",
+        "view": "associate",
+        "name": "Design graphics",
+        "description": "Design and create graphic images in support of a website or campaign, based on an established design direction.",
+        "quantity": "1 graphic",
+        "price": 45000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 2,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33471",
+        "category_name": "Design",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1149",
+          "name": "Design graphics",
+          "description": "Design and create graphic images in support of a website or campaign, based on an established design direction.",
+          "quantity": "5 graphics",
+          "price": 45000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "52",
+            "name": "Graphic Designer",
+            "description": "The specialist responsible for creating images, typography, presentations, logos, and more. ",
+            "emoji": "frame_with_picture"
+          }
+        },
+        "role": {
+          "id": "57",
+          "name": "UX/UI Designer",
+          "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+          "emoji": "thought_balloon"
+        }
+      },
+      {
+        "id": "445585220314468352",
+        "view": "associate",
+        "name": "Lay out website pages",
+        "description": "Lay out pages of website content using existing templates.",
+        "quantity": "1 page",
+        "price": 60000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 2,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33472",
+        "category_name": "Implementation",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1065",
+          "name": "Lay out website pages",
+          "description": "Lay out pages of website content using existing templates.",
+          "quantity": "5 pages",
+          "price": 60000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "62",
+            "name": "Product Manager",
+            "description": "The team member who is on point for owning the business strategy behind a technical product, specifying its functional requirements, and generally managing the launch of features.",
+            "emoji": "calendar"
+          }
+        },
+        "role": {
+          "id": "61",
+          "name": "CMS Developer",
+          "description": "The specialist responsible for developing and configuring content management systems.",
+          "emoji": "floppy_disk"
+        }
+      },
+      {
+        "id": "445585219836317696",
+        "view": "associate",
+        "name": "Source images",
+        "description": "Source commercially available images that are a creative fit for the project.",
+        "quantity": "1 image",
+        "price": 60000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 1,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33471",
+        "category_name": "Design",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1054",
+          "name": "Source images",
+          "description": "Source commercially available images that are a creative fit for the project.",
+          "quantity": "5 images",
+          "price": 60000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "52",
+            "name": "Graphic Designer",
+            "description": "The specialist responsible for creating images, typography, presentations, logos, and more. ",
+            "emoji": "frame_with_picture"
+          }
+        },
+        "role": {
+          "id": "57",
+          "name": "UX/UI Designer",
+          "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+          "emoji": "thought_balloon"
+        }
+      },
+      {
+        "id": "445585220410937344",
+        "view": "associate",
+        "name": "Reformat images",
+        "description": "Optimize existing image files for use with websites or campaigns.",
+        "quantity": "1 image",
+        "price": 60000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 1,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33472",
+        "category_name": "Implementation",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1195",
+          "name": "Reformat images",
+          "description": "Optimize existing image files for use with websites or campaigns.",
+          "quantity": "5 images",
+          "price": 60000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "52",
+            "name": "Graphic Designer",
+            "description": "The specialist responsible for creating images, typography, presentations, logos, and more. ",
+            "emoji": "frame_with_picture"
+          }
+        },
+        "role": {
+          "id": "57",
+          "name": "UX/UI Designer",
+          "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+          "emoji": "thought_balloon"
+        }
+      },
+      {
+        "id": "445585219395915776",
+        "view": "associate",
+        "name": "Audit website content",
+        "description": "Audit the client's existing website to identify which resources are already available and which need to be created. (Requires the client's CMS platform credentials.)",
+        "quantity": "1 report",
+        "price": 90000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 0,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33470",
+        "category_name": "Discovery",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1014",
+          "name": "Audit website content",
+          "description": "Audit the client's existing website to identify which resources are already available and which need to be created. (Requires the client's CMS platform credentials.)",
+          "quantity": "1 report",
+          "price": 50000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "34",
+            "name": "Content Strategist",
+            "description": "The team member who is on point for understanding business goals and user needs, then helps plan, develop and deliver clear, relevant content that brings the two together.",
+            "emoji": "newspaper"
+          }
+        },
+        "role": {
+          "id": "34",
+          "name": "Content Strategist",
+          "description": "The team member who is on point for understanding business goals and user needs, then helps plan, develop and deliver clear, relevant content that brings the two together.",
+          "emoji": "newspaper"
+        }
+      },
+      {
+        "id": "445585220486434816",
+        "view": "associate",
+        "name": "Launch and smoketest website",
+        "description": "Launch website (up to 20 pages) to production, perform a quick visual check of all pages, and test all links.",
+        "quantity": "1 website",
+        "price": 90000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 0,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33472",
+        "category_name": "Implementation",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1186",
+          "name": "Launch and smoketest website",
+          "description": "Launch website (up to 20 pages) to production, perform a quick visual check of all pages, and test all links.",
+          "quantity": "1 website",
+          "price": 90000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "61",
+            "name": "CMS Developer",
+            "description": "The specialist responsible for developing and configuring content management systems.",
+            "emoji": "floppy_disk"
+          }
+        },
+        "role": {
+          "id": "61",
+          "name": "CMS Developer",
+          "description": "The specialist responsible for developing and configuring content management systems.",
+          "emoji": "floppy_disk"
+        }
+      },
+      {
+        "id": "445585220599681024",
+        "view": "associate",
+        "name": "Create web design style guides",
+        "description": "Create documents (usually one page) that describe the design systems for websites, including color palettes, image use, font use, and iconography use.\n",
+        "quantity": "1 guide",
+        "price": 60000,
+        "complexity": 0,
+        "uncertainty": 0,
+        "time": 0,
+        "expertise": 0,
+        "due_at": null,
+        "status": "notstarted",
+        "completed_at": null,
+        "completed": false,
+        "sort": 0,
+        "scope_id": "12057",
+        "project_id": "445585215281303552",
+        "client_id": "444600259390345216",
+        "category_id": "33473",
+        "category_name": "Handover",
+        "category_description": null,
+        "invoices": [],
+        "deliverable": {
+          "id": "1165",
+          "name": "Create web design style guides",
+          "description": "Create documents (usually one page) that describe the design systems for websites, including color palettes, image use, font use, and iconography use.\n",
+          "quantity": "1 guide",
+          "price": 60000,
+          "owner_id": "",
+          "community": 1,
+          "role": {
+            "id": "57",
+            "name": "UX/UI Designer",
+            "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+            "emoji": "thought_balloon"
+          }
+        },
+        "role": {
+          "id": "57",
+          "name": "UX/UI Designer",
+          "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+          "emoji": "thought_balloon"
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "33470",
+        "name": "Discovery",
+        "description": null,
+        "start_at": null,
+        "sort": 3
+      },
+      {
+        "id": "33471",
+        "name": "Design",
+        "description": null,
+        "start_at": null,
+        "sort": 2
+      },
+      {
+        "id": "33472",
+        "name": "Implementation",
+        "description": null,
+        "start_at": null,
+        "sort": 1
+      },
+      {
+        "id": "33473",
+        "name": "Handover",
+        "description": null,
+        "start_at": null,
+        "sort": 0
+      }
+    ],
+    "roles": [
+      {
+        "id": "57",
+        "name": "UX/UI Designer",
+        "description": "UX is the specialist responsible for the overall digital experience, including research, information architecture, wireframes, and user testing. UI is the specialist responsible for the visual design of specific digital product screens and controls.",
+        "emoji": "thought_balloon"
+      },
+      {
+        "id": "61",
+        "name": "CMS Developer",
+        "description": "The specialist responsible for developing and configuring content management systems.",
+        "emoji": "floppy_disk"
+      },
+      {
+        "id": "34",
+        "name": "Content Strategist",
+        "description": "The team member who is on point for understanding business goals and user needs, then helps plan, develop and deliver clear, relevant content that brings the two together.",
+        "emoji": "newspaper"
+      }
+    ],
+    "groupedtasks": {
+      "categories": [
+        {
+          "id": "33470",
+          "tasks": [
+            "445585219395915776"
+          ]
+        },
+        {
+          "id": "33471",
+          "tasks": [
+            "445585219521744896",
+            "445585219593048064",
+            "445585219718877184",
+            "445585219836317696"
+          ]
+        },
+        {
+          "id": "33472",
+          "tasks": [
+            "445585219987312640",
+            "445585220180250624",
+            "445585220314468352",
+            "445585220410937344",
+            "445585220486434816"
+          ]
+        },
+        {
+          "id": "33473",
+          "tasks": [
+            "445585220599681024"
+          ]
+        }
+      ],
+      "roles": [
+        {
+          "id": "61",
+          "tasks": [
+            "445585219987312640",
+            "445585220314468352",
+            "445585220486434816"
+          ]
+        },
+        {
+          "id": "34",
+          "tasks": [
+            "445585220180250624",
+            "445585219395915776"
+          ]
+        },
+        {
+          "id": "57",
+          "tasks": [
+            "445585219521744896",
+            "445585219593048064",
+            "445585219718877184",
+            "445585219836317696",
+            "445585220410937344",
+            "445585220599681024"
+          ]
+        }
+      ],
+      "categoryroles": [
+        {
+          "id": "33470",
+          "roles": [
+            {
+              "id": "34",
+              "tasks": [
+                "445585219395915776"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "33471",
+          "roles": [
+            {
+              "id": "57",
+              "tasks": [
+                "445585219521744896",
+                "445585219593048064",
+                "445585219718877184",
+                "445585219836317696"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "33472",
+          "roles": [
+            {
+              "id": "61",
+              "tasks": [
+                "445585219987312640",
+                "445585220314468352",
+                "445585220486434816"
+              ]
+            },
+            {
+              "id": "34",
+              "tasks": [
+                "445585220180250624"
+              ]
+            },
+            {
+              "id": "57",
+              "tasks": [
+                "445585220410937344"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "33473",
+          "roles": [
+            {
+              "id": "57",
+              "tasks": [
+                "445585220599681024"
+              ]
+            }
+          ]
+        }
+      ],
+      "rolecategories": [
+        {
+          "id": "57",
+          "categories": [
+            {
+              "id": "33473",
+              "tasks": [
+                "445585220599681024"
+              ]
+            },
+            {
+              "id": "33472",
+              "tasks": [
+                "445585220410937344"
+              ]
+            },
+            {
+              "id": "33471",
+              "tasks": [
+                "445585219521744896",
+                "445585219593048064",
+                "445585219718877184",
+                "445585219836317696"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "categories": [
+            {
+              "id": "33472",
+              "tasks": [
+                "445585219987312640",
+                "445585220314468352",
+                "445585220486434816"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "categories": [
+            {
+              "id": "33472",
+              "tasks": [
+                "445585220180250624"
+              ]
+            },
+            {
+              "id": "33470",
+              "tasks": [
+                "445585219395915776"
+              ]
+            }
+          ]
+        }
+      ],
+      "roleassignments": [
+        {
+          "role_id": "57",
+          "specialist_id": "",
+          "user_id": "",
+          "tasks": [
+            "445585219521744896",
+            "445585219593048064",
+            "445585219718877184",
+            "445585219836317696",
+            "445585220410937344",
+            "445585220599681024"
+          ]
+        },
+        {
+          "role_id": "61",
+          "specialist_id": "",
+          "user_id": "",
+          "tasks": [
+            "445585219987312640",
+            "445585220314468352",
+            "445585220486434816"
+          ]
+        },
+        {
+          "role_id": "34",
+          "specialist_id": "",
+          "user_id": "",
+          "tasks": [
+            "445585220180250624",
+            "445585219395915776"
+          ]
+        }
+      ]
+    }
+  },
+  "paymentscheduleinvoices": []
+}
